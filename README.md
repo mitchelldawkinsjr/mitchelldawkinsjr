@@ -1,6 +1,6 @@
-![Mitchell Dawkins II — Software Engineer](./github-mitchell-dawkins-software-engineer.jpg)
+![Mitchell Dawkins II — Senior Full Stack AI Engineer](./github-mitchell-dawkins-software-engineer.jpg)
 
-Full-stack engineer with **10+ years** building scalable web apps across enterprise and growth-stage environments. Dropbox alum. Currently building federal/enterprise software at AdHoc Research Associates — and shipping open-source AI tooling, self-hosted infra, and sports analytics on the side.
+Senior full-stack AI engineer with **10+ years** building scalable web apps across enterprise and growth-stage environments. Dropbox alum. Shipping open-source AI tooling, agent workflows, self-hosted infra, and sports analytics.
 
 I believe we're at an inflection point where AI, used with experience and solid fundamentals, can dramatically change how we build software.
 
@@ -46,6 +46,5 @@ More on [mitchelldawkins.com/projects](https://mitchelldawkins.com/projects) · 
 
 ### Currently
 
-- Senior Computer Programmer @ AdHoc Research Associates (enterprise PHP / Vue)
-- Experimenting with agent pipelines, self-hosted infra, and coaching tooling
+- Building AI agent pipelines, self-hosted infra, and coaching tooling
 - Helping run the [Dawkins Family Foundation](https://dawkinsfamilyfoundation.org/)
