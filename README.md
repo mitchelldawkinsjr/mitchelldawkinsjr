@@ -1,4 +1,4 @@
-![Mitchell Dawkins II — Senior Full Stack AI Engineer](./github-mitchell-dawkins-software-engineer.png)
+![Mitchell Dawkins II — Senior Full Stack AI Engineer](./github-mitchell-dawkins-software-engineer.jpg)
 
 Senior full-stack AI engineer with **10+ years** building scalable web apps across enterprise and growth-stage environments. Dropbox alum. Shipping open-source AI tooling, agent workflows, self-hosted infra, and sports analytics.
 
