@@ -36,6 +36,7 @@ I believe we're at an inflection point where AI, used with experience and solid 
 | [**Thinker**](https://github.com/mitchelldawkinsjr/thinker) | Microlearning PWA with catalog-grounded Ask (OpenAI / Ollama) |
 | [**Power & Context**](https://github.com/mitchelldawkinsjr/power-and-context) | Self-hosted article → NPR-style podcast via local LLMs + TTS |
 | [**NBA Stat Spot**](https://github.com/mitchelldawkinsjr/NBA-Stat-Spot) | NBA analytics + AI prop predictions |
+| [**WNBA Stat Spot**](https://github.com/mitchelldawkinsjr/WNBA-Stat-Spot) | WNBA analytics + AI prop predictions |
 | [**360 Web Solutions Cloud**](https://github.com/mitchelldawkinsjr/360-Web-Solutions-Cloud) | Self-hosted VPS fleet + Docker/FastAPI control plane for WordPress |
 | [**GH Film Review**](https://github.com/mitchelldawkinsjr/GH-Flim-Review) | CSV film logs → weekly/season football evaluation reports |
 | [**GHFB**](https://github.com/mitchelldawkinsjr/ghfb) | Sheet-first coach PWA — attendance, lift, film hub |
