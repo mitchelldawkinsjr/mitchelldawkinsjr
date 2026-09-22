@@ -1,4 +1,4 @@
-![Mitchell Dawkins II — Senior Full Stack AI Engineer](./banner-v2.jpg)
+![Mitchell Dawkins II — Senior Software Engineer | AI Systems & Full Stack](./banner-v2.jpg)
 
 Senior full-stack AI engineer with **10+ years** building scalable web apps across enterprise and growth-stage environments. Dropbox alum. Shipping open-source AI tooling, agent workflows, self-hosted infra, and sports analytics.
 
@@ -35,11 +35,13 @@ I believe we're at an inflection point where AI, used with experience and solid 
 | [**Fasted**](https://github.com/mitchelldawkinsjr/Fasted) | Offline-first biblical fasting companion PWA |
 | [**Thinker**](https://github.com/mitchelldawkinsjr/thinker) | Microlearning PWA with catalog-grounded Ask (OpenAI / Ollama) |
 | [**Power & Context**](https://github.com/mitchelldawkinsjr/power-and-context) | Self-hosted article → NPR-style podcast via local LLMs + TTS |
+| [**Tab Recorder**](https://github.com/mitchelldawkinsjr/tab-recorder) | Chrome extension for recording individual browser tabs to MP4 |
+| [**GH Film Review**](https://github.com/mitchelldawkinsjr/GH-Flim-Review) | CSV film logs → weekly/season football evaluation reports |
+| [**GHFB**](https://github.com/mitchelldawkinsjr/ghfb) | Sheet-first coach PWA — attendance, lift, film hub |
 | [**NBA Stat Spot**](https://github.com/mitchelldawkinsjr/NBA-Stat-Spot) | NBA analytics + AI prop predictions |
 | [**WNBA Stat Spot**](https://github.com/mitchelldawkinsjr/WNBA-Stat-Spot) | WNBA analytics + AI prop predictions |
 | [**360 Web Solutions Cloud**](https://github.com/mitchelldawkinsjr/360-Web-Solutions-Cloud) | Self-hosted VPS fleet + Docker/FastAPI control plane for WordPress |
-| [**GH Film Review**](https://github.com/mitchelldawkinsjr/GH-Flim-Review) | CSV film logs → weekly/season football evaluation reports |
-| [**GHFB**](https://github.com/mitchelldawkinsjr/ghfb) | Sheet-first coach PWA — attendance, lift, film hub |
+
 
 More on [mitchelldawkins.com/projects](https://mitchelldawkins.com/projects) · Writing: [Building AI with AI](https://mitchelldawkins.com/blog)
 
